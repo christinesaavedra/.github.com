@@ -1,0 +1,17 @@
+This actually took me a few hours to accomplish, as I had trouble looking for a domain name host. It also took some time to figure out how to host my static web page's files on the cloud (even following the tutorial I found online was pretty challenging). I ended up using Google Drive to host my files, because Dropbox no longer has Public folders. However, I did save my files as well to github.
+
+
+
+Domain host: Dot TK (http://www.dot.tk/en/index.html)
+
+Files host: Google Drive (https://drive.google.com/open?id=0BzLljlONXHZWQ2dwdGpmTnlaUDg)
+
+Backup: Github (https://github.com/christinesaavedra/.github.com/tree/master)
+
+
+
+Tutorial/s followed:
+
+https://alexcican.com/post/guide-hosting-website-dropbox-github/
+
+http://stackoverflow.com/questions/11054878/is-is-possible-to-get-a-permanent-url-to-a-file-uploaded-to-google-drive
